@@ -1,4 +1,4 @@
-# Play 2048 on Monad
+# Play 2048 on Monad Blockchain
 
 **Check out a full writeup of how we built this [here](https://blog.monad.xyz/blog/build-2048).**
 

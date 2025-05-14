@@ -1,5 +1,7 @@
 # Play 2048 on Monad
 
+**Check out a full writeup of how we built this [here](https://blog.monad.xyz/blog/build-2048).**
+
 Smart contracts that let you play a game of 2048 entirely on-chain. The game is deployed on [Monad testnet](https://testnet.monad.xyz/) to showcase how Monad is well suited for building fast paced games with a high volume of interactions.
 
 ### About the game

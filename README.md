@@ -4,6 +4,11 @@
 
 Smart contracts that let you play a game of 2048 entirely on-chain. The game is deployed on [Monad testnet](https://testnet.monad.xyz/) to showcase how Monad is well suited for building fast paced games with a high volume of interactions.
 
+### Testnet Faucets
+Claim testnet tokens from the following:
+- []()
+- []()
+
 ### About the game
 
 From the [2048 Wikipedia](<https://en.wikipedia.org/wiki/2048_(video_game)>) page:

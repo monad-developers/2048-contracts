@@ -4,9 +4,9 @@
 
 Smart contracts that let you play a game of 2048 entirely on-chain. The game is deployed on [Monad testnet](https://testnet.monad.xyz/) to showcase how Monad is well suited for building fast paced games with a high volume of interactions.
 
-### Testnet Faucets
+### Monad Testnet Faucets
 Claim testnet tokens from the following:
-- [Morkie](https://faucet.morkie.xyz/)
+- [Morkie](https://faucet.morkie.xyz/) claim 0.1 Mon every 24 hours
 - []()
 
 ### About the game

@@ -6,8 +6,8 @@ Smart contracts that let you play a game of 2048 entirely on-chain. The game is 
 
 ### Monad Testnet Faucets
 Claim testnet tokens from the following:
-- [Official Monad Faucet](https://faucet.monad.xyz/)
-- [Morkie](https://faucet.morkie.xyz/) claim 0.1 Mon every 24 hours
+- [Official Monad Faucet](https://faucet.monad.xyz/) Claim <5 MON, Requirements: >=3 transactions & Balance >=0.03 ETH on Ethereum Mainnet.
+- [Morkie](https://faucet.morkie.xyz/) claim 0.1 MON every 24 hours.
 
 ### About the game
 

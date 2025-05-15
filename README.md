@@ -6,7 +6,7 @@ Smart contracts that let you play a game of 2048 entirely on-chain. The game is 
 
 ### Testnet Faucets
 Claim testnet tokens from the following:
-- []()
+- [Morkie](https://faucet.morkie.xyz/)
 - []()
 
 ### About the game

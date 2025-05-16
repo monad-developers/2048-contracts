@@ -1,8 +1,13 @@
-# Play 2048 on Monad
+# Play 2048 on Monad Blockchain
 
 **Check out a full writeup of how we built this [here](https://blog.monad.xyz/blog/build-2048).**
 
 Smart contracts that let you play a game of 2048 entirely on-chain. The game is deployed on [Monad testnet](https://testnet.monad.xyz/) to showcase how Monad is well suited for building fast paced games with a high volume of interactions.
+
+### Monad Testnet Faucets
+Claim testnet tokens from the following working faucets:
+- [Official Monad Faucet](https://faucet.monad.xyz/) Claim <5 MON every 6 hours, Requirements: >=3 transactions & Balance >=0.03 ETH on Ethereum Mainnet.
+- [Morkie](https://faucet.morkie.xyz/) claim 0.1 MON every 24 hours.
 
 ### About the game
 
@@ -10,7 +15,7 @@ From the [2048 Wikipedia](<https://en.wikipedia.org/wiki/2048_(video_game)>) pag
 
 -   2048 is a single-player sliding tile puzzle video game.
 -   2048 is played on a plain 4×4 grid, with numbered tiles that slide when a player moves them using the four arrow keys.
--   The game begins with two tiles already in the grid, having a value of either 2 or 4, and another such tile appears in a random empty space after each turn. - Tiles with a value of 2 appear 90% of the time, and tiles with a value of 4 appear 10% of the time.
+-   The game begins with two tiles already in the grid, having a value of either 2 or 4, and another such tile appears in a random empty space after each turn. Tiles with a value of 2 appear 90% of the time, and tiles with a value of 4 appear 10% of the time.
 -   Tiles slide as far as possible in the chosen direction until they are stopped by either another tile or the edge of the grid. If two tiles of the same number collide while moving, they will merge into a tile with the total value of the two tiles that collided.
 -   The resulting tile cannot merge with another tile again in the same move.
 

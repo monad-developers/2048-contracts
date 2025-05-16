@@ -12,7 +12,7 @@ struct GameState {
 /**
  * @title  Monad 2048
  * @author Monad Foundation (github.com/monad-developers)
- * @notice Play 2048 onchain! Also read: https://blog.monad.xyz
+ * @notice Play 2048 on Monad onchain! Also read: https://blog.monad.xyz
  */
 contract Monad2048 {
     // =============================================================//

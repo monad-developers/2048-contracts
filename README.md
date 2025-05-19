@@ -1,3 +1,5 @@
+[![CI](https://github.com/monad-developers/2048-contracts/actions/workflows/test.yml/badge.svg)](https://github.com/monad-developers/2048-contracts/actions/workflows/test.yml)
+
 # Play 2048 on Monad
 
 **Check out a full writeup of how we built this [here](https://blog.monad.xyz/blog/build-2048).**
